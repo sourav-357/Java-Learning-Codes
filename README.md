@@ -70,7 +70,7 @@ The codes are based on the **"Java Programming Masterclass for Software Develope
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/sourav-kumar-357/java-practice.git
+   git clone https://github.com/sourav-kumar-357/Java-Learning-Codes.git
    ```
 2. **Open in any Java IDE**
    - Recommended: IntelliJ IDEA / Eclipse / VSCode
