@@ -5,5 +5,8 @@ public class PrintTheNumber {
         
         int myFirstNumber = 5;
         System.out.println("My first Number is " + myFirstNumber);
+
+        int mySecondNumber = 10 + 5;
+        System.out.println("My Second number is " + mySecondNumber);
     }
 }
