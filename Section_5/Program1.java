@@ -18,5 +18,6 @@ public class Program1 {
         }
 
         System.out.println(Kilometers);
+        System.out.println(health);
     }
 }
