@@ -11,5 +11,6 @@ public class P13_Challenge6 {
      }
      public static void main(String[] args) {
           boolean isTrue = areEqualByThreeDecimalPlaces(1.998, 1.998);
+          System.out.println(isTrue);
      }
 }
