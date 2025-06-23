@@ -1,7 +1,6 @@
 package Section_5;
 
 public class P07_Methods_Challenge {
-
      // Creating the first method 
      public static void displayHighScoreposition ( String playerName, int playerPosition) {
           System.out.println(playerName + " managed to get into position " + playerPosition + " on the high score list");
@@ -19,14 +18,20 @@ public class P07_Methods_Challenge {
                return 4;
           }
      }
-     public static void main(String[] args) {
-          
-          // initialising requires two variables 
-          int score = 500;
-          String name = "Sourav";
 
+     // Defining a method to call the two methods
+     public static void answers (int score) {
           // Using the two methods
           int position = calculateHighScoreposition(score);
-          displayHighScoreposition(name, position);
+          displayHighScoreposition("sourav", position);
+     }
+     public static void main(String[] args) {
+          
+          // calling the answers by different values
+          answers(1500);
+          answers(1000);
+          answers(500);
+          answers(100);
+          answers(25);
      }
 }
