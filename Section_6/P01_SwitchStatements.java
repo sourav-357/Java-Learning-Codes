@@ -1,8 +1,9 @@
 package Section_6;
 
-public class P01_mm {
+public class P01_SwitchStatements {
      public static void main(String[] args) {
 
+        // Normal way to do is the use of if else statements
        int value = 3;
        if (value == 1) {
            System.out.println("Value was 1");
@@ -13,7 +14,7 @@ public class P01_mm {
        }
 
         int switchValue = 3;
-
+        // Using the switch case here to get the desired output 
         switch (switchValue) {
             case 1:
                 System.out.println("Value was 1");
