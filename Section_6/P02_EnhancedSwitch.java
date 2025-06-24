@@ -40,6 +40,5 @@ public class P02_EnhancedSwitch {
                 yield badResponse;
             }
         };
-
     }
 }
