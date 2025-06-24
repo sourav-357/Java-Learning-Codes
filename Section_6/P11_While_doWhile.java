@@ -15,6 +15,13 @@ public class P11_While_doWhile {
                j++;
                isReady = (j > 0);
           } while (isReady);
-          
+          int number = 0;
+          while (number < 50) {
+               number += 5;
+               if (number % 25 == 0) {
+                    continue;
+               }
+               System.out.print(number + "_");
+          }
      }
 }
