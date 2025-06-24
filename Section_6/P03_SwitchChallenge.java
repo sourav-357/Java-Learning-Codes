@@ -5,24 +5,25 @@ public class P03_SwitchChallenge {
         
         char charValue = 'X';
         switch (charValue) {
+          
             case 'A':
-            System.out.println("A is able");
-            break;
+               System.out.println("A is able");
+               break;
             case 'B':
-            System.out.println("B is baker");
-            break;
+               System.out.println("B is baker");
+               break;
             case 'C':
-            System.out.println("C is charlie");
-            break;
+               System.out.println("C is charlie");
+               break;
             case 'D':
-            System.out.println("D is dog");
-            break;
+               System.out.println("D is dog");
+               break;
             case 'E':
-            System.out.println("E is easy");
-            break;
+               System.out.println("E is easy");
+               break;
             default:
-            System.out.println("Letter " + charValue + " was not found in the switch");
-            break;
+               System.out.println("Letter " + charValue + " was not found in the switch");
+               break;
         }
     }
 }
