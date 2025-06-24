@@ -7,6 +7,8 @@ public class P11_While_doWhile {
           }
           int j = 1;
           boolean isReady = false;
+
+          // This is the do while loops
           do {
                if (j > 5) {
                     break;
@@ -15,6 +17,8 @@ public class P11_While_doWhile {
                j++;
                isReady = (j > 0);
           } while (isReady);
+
+          // Now comes the while loops
           int number = 0;
           while (number < 50) {
                number += 5;
