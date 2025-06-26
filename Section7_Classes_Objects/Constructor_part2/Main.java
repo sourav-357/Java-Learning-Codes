@@ -1,7 +1,6 @@
 package Section7_Classes_Objects.Constructor_part2;
 
 public class Main {
-
     public static void main(String[] args) {
 
         Account bobsAccount = new Account();
