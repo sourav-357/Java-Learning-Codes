@@ -18,11 +18,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
-                "type='" + type + '\'' +
-                ", size='" + size + '\'' +
-                ", weight=" + weight +
-                '}';
+        return "Animal{" + "type='" + type + '\'' + ", size='" + size + '\'' + ", weight=" + weight + '}';
     }
 
     public void move(String speed) {
