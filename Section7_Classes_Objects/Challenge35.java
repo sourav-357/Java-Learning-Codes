@@ -69,7 +69,6 @@ public class Challenge35 {
 // TEST EXAMPLE
 
 // → TEST CODE:
-
 // Challenge35 one = new Challenge35(1.0, 1.0);
 // Challenge35 number = new Challenge35(2.5, -1.5);
 // one.add(1,1);
@@ -90,12 +89,3 @@ public class Challenge35 {
 // one.imaginary= 3.5
 // number.real= 3.0
 // number.imaginary= -5.0
-
-
-// NOTE: Try to avoid duplicated code.
-
-// NOTE: All methods should be defined as public NOT public static.
-
-// NOTE: In total, you have to write 6 methods.
-
-// NOTE: Do not add a main method to the solution code.

@@ -59,41 +59,26 @@ public class Challenge34 {
 //        a carpet that costs $8 per square meter would cost $960.
 //
 //        1. Write a class with the name Floor. The class needs two fields (instance variables) with name width and length of type double.
-//
 //        The class needs to have one constructor with parameters width and length of type double and it needs to initialize the fields.
-//
 //        In case the width parameter is less than 0 it needs to set the width field value to 0,
 //        in case the length parameter is less than 0 it needs to set the length field value to 0.
-//
+
 //        Write the following methods (instance methods):
-//
 //        * Method named getArea without any parameters, it needs to return the calculated area (width * length).
 //
-//
 //        2. Write a class with the name Carpet. The class needs one field (instance variable) with name cost of type double.
-//
 //        The class needs to have one constructor with parameter cost of type double and it needs to initialize the field.
-//
 //        In case the cost parameter is less than 0 it needs to set the cost field value to 0.
-//
 //        Write the following methods (instance methods):
-//
 //        * Method named getCost without any parameters, it needs to return the value of cost field
-//
-//
+
 //        3. Write a class with the name Calculator. The class needs two fields (instance variables) with name floor of type Floor and carpet of type Carpet.
-//
 //        The class needs to have one constructor with parameters floor of type Floor and carpet of type Carpet and it needs to initialize the fields.
-//
 //        Write the following methods (instance methods):
-//
 //        * Method named getTotalCost without any parameters, it needs to return the calculated total cost to cover the floor with a carpet.
 //
-//
 //        TEST EXAMPLE
-//
 //        → TEST CODE:
-//
 //        Carpet carpet = new Carpet(3.5);
 //        Floor floor = new Floor(2.75, 4.0);
 //        Calculator calculator = new Calculator(floor, carpet);
@@ -104,13 +89,9 @@ public class Challenge34 {
 //        System.out.println("total= " + calculator.getTotalCost());
 //
 //        → OUTPUT
-//
 //        total= 38.5
 //        total= 36.45
-//
-//
+
 //        NOTE: All methods should be defined as public NOT public static.
-//
 //        NOTE: In total, you have to write 3 classes.
-//
 //        NOTE: Do not add a main method to the solution code.
