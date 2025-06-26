@@ -1,47 +1,47 @@
 package Section7_Classes_Objects;
 
-class Ractangle {
-    private double width;
-    private double length;
+    class Ractangle {
+        private double width;
+        private double length;
 
-    public Ractangle(double width, double length) {
-      if(width < 0 ){
-          this.width = 0;
-      }else this.width = width;
+        public Ractangle(double width, double length) {
+        if(width < 0 ){
+            this.width = 0;
+        }else this.width = width;
 
-      if(length < 0){
-          this.length = 0;
-      }else this.length = length;
+        if(length < 0){
+            this.length = 0;
+        }else this.length = length;
 
-    }
-    public double getLength(){
-        return length;
-    }
-    public double getWidth(){
-        return width;
-    }
+        }
+        public double getLength(){
+            return length;
+        }
+        public double getWidth(){
+            return width;
+        }
 
-    public double getArea(){
-        return length*width;
+        public double getArea(){
+            return length*width;
+        }
     }
-}
-class Cuboid extends Ractangle{
-    private double height;
-    public Cuboid(double width, double length, double height){
-        super(width, length);
-        if(height < 0 ){
-            this.height = 0;
-        }else this.height = height;
-    }
+    class Cuboid extends Ractangle{
+        private double height;
+        public Cuboid(double width, double length, double height){
+            super(width, length);
+            if(height < 0 ){
+                this.height = 0;
+            }else this.height = height;
+        }
 
-    public double getHeight(){
-        return height;
-    }
+        public double getHeight(){
+            return height;
+        }
 
-    public double getVolume(){
-        return height*getArea();
+        public double getVolume(){
+            return height*getArea();
+        }
     }
-}
 public class Challenge37 {
     public static void main(String[] args) {
         Ractangle rectangle = new Ractangle(5, 10);
