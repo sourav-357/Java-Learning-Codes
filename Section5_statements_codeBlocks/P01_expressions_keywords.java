@@ -1,6 +1,6 @@
 // the reserved keywords and expressions
 
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P01_expressions_keywords {
      public static void main(String[] args) {

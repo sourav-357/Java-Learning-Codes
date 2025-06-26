@@ -1,4 +1,4 @@
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P06_Methods_ReturnType {
 

@@ -1,4 +1,4 @@
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P03_if_Keyword {
      public static void main(String[] args) {

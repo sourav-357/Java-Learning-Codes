@@ -6,7 +6,7 @@ Write a method isCatPlaying that has 2 parameters. Method needs to return true i
 1st parameter should be of type boolean and be named summer it represents if it is summer.
 2nd parameter represents the temperature and is of type int with the name temperature.
 */
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P23_Challenge12 {
      public static void main(String[] args) {

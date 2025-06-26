@@ -8,7 +8,7 @@ Write another overloaded method with 2 parameters x and y (both doubles), where 
 The method needs to return an area of a rectangle.
 If either or both parameters is/are a negative return -1.0 to indicate an invalid value.
 */
-package Section_5;
+package Section5_statements_codeBlocks;
 
 import java.util.Scanner;
 

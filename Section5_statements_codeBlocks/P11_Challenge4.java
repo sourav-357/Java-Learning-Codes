@@ -9,7 +9,7 @@ In all other cases return false.
 If the hourOfDay parameter is less than 0 or greater than 23 return false.
 */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 import java.util.Scanner;
 
 public class P11_Challenge4 {

@@ -1,4 +1,4 @@
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P07_Methods_Challenge {
      // Creating the first method 

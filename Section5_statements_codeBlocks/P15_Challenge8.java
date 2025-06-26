@@ -6,7 +6,7 @@ The method should return boolean and it needs to return true if one of the param
 Write another method named isTeen with 1 parameter of type int.
 The method should return boolean and it needs to return true if the parameter is in range 13(inclusive) - 19 (inclusive). Otherwise return false.
 */
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P15_Challenge8 {
 

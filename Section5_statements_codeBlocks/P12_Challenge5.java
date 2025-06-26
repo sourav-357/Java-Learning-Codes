@@ -15,7 +15,7 @@ A leap year is a year that is divisible by 4 but not 100.
 If it's divisible by 100, it has to be divisible by 400.
 */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 
 import java.util.Scanner;
 

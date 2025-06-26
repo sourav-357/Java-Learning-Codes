@@ -12,7 +12,7 @@ For example, when the parameter kiloBytes is 2500 it needs to print "2500 KB = 2
 If the parameter kiloBytes is less than 0 then print the text "Invalid Value"
 */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 
 import java.util.Scanner;
 

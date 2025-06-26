@@ -1,4 +1,4 @@
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P19_Bonus_Challenge {
      public static void main(String[] args) {

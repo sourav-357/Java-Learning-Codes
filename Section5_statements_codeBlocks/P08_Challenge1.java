@@ -6,7 +6,7 @@ The method should not return any value, and it needs to print out:
 - "zero" if the parameter number is equal to 0
 */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 import java.util.Scanner;
 
 public class P08_Challenge1 {

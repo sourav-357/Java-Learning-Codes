@@ -7,7 +7,7 @@ If all numbers are different print text "All numbers are different".
 Otherwise, print "Neither all are equal or different".
 */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 
 import java.util.Scanner;
 

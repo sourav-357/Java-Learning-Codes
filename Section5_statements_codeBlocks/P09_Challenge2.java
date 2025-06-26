@@ -13,7 +13,7 @@ YY represents the rounded milesPerHour from the kilometersPerHour parameter.
 If the parameter kilometersPerHour is < 0 then print the text "Invalid Value"
  */
 
-package Section_5;
+package Section5_statements_codeBlocks;
 
 public class P09_Challenge2 {
 
