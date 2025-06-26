@@ -39,7 +39,7 @@ class SimpleCalculator {
                return firstNumber / secondNumber;
           }
      }
-     }
+}
 
      public class P03_Challenge30 {
      public static void main(String[] args) {
