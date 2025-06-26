@@ -41,7 +41,7 @@ class SimpleCalculator {
      }
 }
 
-     public class P03_Challenge30 {
+     public class Challenge30 {
      public static void main(String[] args) {
           SimpleCalculator calculator = new SimpleCalculator();
           calculator.setFirstNumber(5.0);

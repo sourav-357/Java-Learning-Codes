@@ -1,6 +1,6 @@
-package Section7_Classes_Objects;
+package Section7_Classes_Objects.Constructor_part1;
 
-public class P03_Constructor1 {
+public class Constructor {
      public static void main(String[] args) {
 
         Account1 bobsAccount = new Account1("12345", 500,
