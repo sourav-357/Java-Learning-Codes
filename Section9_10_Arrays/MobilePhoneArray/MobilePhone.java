@@ -1,4 +1,4 @@
-package Section9_Arrays.MobilePhoneArray;
+package Section9_10_Arrays.MobilePhoneArray;
 
 import java.util.ArrayList;
 

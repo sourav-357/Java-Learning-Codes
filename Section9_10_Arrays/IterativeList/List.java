@@ -1,4 +1,4 @@
-package Section9_Arrays.IterativeList;
+package Section9_10_Arrays.IterativeList;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

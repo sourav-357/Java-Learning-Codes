@@ -1,4 +1,4 @@
-package Section9_Arrays.MobilePhoneArray;
+package Section9_10_Arrays.MobilePhoneArray;
 
 //this class is a blueprint for myContacs ArrayList from the class MobilePhone
 

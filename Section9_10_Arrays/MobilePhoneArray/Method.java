@@ -1,4 +1,4 @@
-package Section9_Arrays.MobilePhoneArray;
+package Section9_10_Arrays.MobilePhoneArray;
 
 //Class, that holds all methods which could had been placed in the Main Class; makes Main class cleaner
 

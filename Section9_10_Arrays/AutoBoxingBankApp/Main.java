@@ -1,4 +1,4 @@
-package Section9_Arrays.AutoBoxingBankApp;
+package Section9_10_Arrays.AutoBoxingBankApp;
 
 public class Main {
      // You job is to create a simple banking application.

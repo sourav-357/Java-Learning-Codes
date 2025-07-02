@@ -1,4 +1,4 @@
-package Section9_Arrays.ArrayList;
+package Section9_10_Arrays.ArrayList;
 
 import java.util.ArrayList;
 

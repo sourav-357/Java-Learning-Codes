@@ -1,4 +1,4 @@
-package Section9_Arrays.MusicPlayerChallenge;
+package Section9_10_Arrays.MusicPlayerChallenge;
 
 import java.util.*;
 // Create a program that implements a playlist for songs

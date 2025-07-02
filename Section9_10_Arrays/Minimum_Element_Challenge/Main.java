@@ -1,4 +1,4 @@
-package Section9_Arrays.Minimum_Element_Challenge;
+package Section9_10_Arrays.Minimum_Element_Challenge;
 
 import java.util.Scanner;
 

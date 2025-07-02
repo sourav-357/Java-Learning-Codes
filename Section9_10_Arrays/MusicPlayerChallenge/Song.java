@@ -1,4 +1,4 @@
-package Section9_Arrays.MusicPlayerChallenge;
+package Section9_10_Arrays.MusicPlayerChallenge;
 
 /*the most basic class*/
 public class Song {

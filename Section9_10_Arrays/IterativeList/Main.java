@@ -1,4 +1,4 @@
-package Section9_Arrays.IterativeList;
+package Section9_10_Arrays.IterativeList;
 
 /*
 Implement the list of cities to visit using (finished)

@@ -1,4 +1,4 @@
-package Section9_Arrays.Reverse_Element_Challenge;
+package Section9_10_Arrays.Reverse_Element_Challenge;
 
 import java.util.*;
 import java.util.Scanner;

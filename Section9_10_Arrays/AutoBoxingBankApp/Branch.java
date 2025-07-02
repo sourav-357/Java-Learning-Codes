@@ -1,4 +1,4 @@
-package Section9_Arrays.AutoBoxingBankApp;
+package Section9_10_Arrays.AutoBoxingBankApp;
 
 import java.util.ArrayList;
 

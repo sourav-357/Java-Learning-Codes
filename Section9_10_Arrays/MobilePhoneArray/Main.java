@@ -1,4 +1,4 @@
-package Section9_Arrays.MobilePhoneArray;
+package Section9_10_Arrays.MobilePhoneArray;
 
 /*Create a program that implements a simple mobile phone with the following capabilities.
 
