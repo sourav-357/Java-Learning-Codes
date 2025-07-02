@@ -102,6 +102,7 @@ public class List extends Traveler {
                switch (choice) {
                     case 0:
                          System.out.println("Goodbye");
+                         userChoice.close();
                          System.exit(0);
                     case 1: // moving forward
                          if (!goingForward) {
